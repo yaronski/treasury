@@ -82,6 +82,7 @@ This table lists Moonbeam Treasury Proposals that have been converted into Treas
 | 55          | 55     | [ Multisig Support as a Service: Moonbeam, Moonriver, and Moonbase for 2nd Semester/2025.](moonbeam/MBTP55&MRTP52.md) | 0xB969639e3Cbf1e5a1d753efb2be09De4f34001f7 | 0x4DA9a7f9e2381C0D663116Ed8dE297BAd1DB951c | 216,831.18 GLMR    | approved |
 | 56          | 56     | [OnFinality's Proposal for High Performance RPC & Bootnode for Moonbeam, Moonriver, and Moonbase Alpha in Q4 2025/Q1 2026](moonbeam/MBTP56&MRTP53.md) | 0x4138574878c133d3A12009d6F54B8F26De700834 | 0xa674Bf4c9eb504fe7ca195AD715De053EDEc38f3 | 61318.00 GLMR    | approved |
 | 57          | 57     | [[Proposal: MBXX/MRXX] UnitedBloc - Treasury Proposal for Q4/Q1 2026](moonbeam/MBTP57&MRTP54.md) | 0x4138574878c133d3A12009d6F54B8F26De700834 | 0xfD346Be6cd55247D4b928656E0DCdC10C1660434 | 68457.09 GLMR    | approved |
+| 59          | 59     | [[Proposal: MB11 & 30 / MR8 & 26] StakeGlmr.com and StakeMovr.com V2 - Treasury Proposal Q3 2025](moonbeam/MBTP59&MRTP57.md) | 0x41D4B02022165Fcd47b4E0F64Aa41eEF9ef1da38 | 0xAb4B115b2D23EF8DA7b0aa54FC074fB4C6886441 | 25132.84 GLMR    | approved |
 
 
 ### Moonriver
@@ -142,3 +143,4 @@ This table lists Moonriver Treasury Proposals that have been converted into Trea
 | 52          | 53     | [ Multisig Support as a Service: Moonbeam, Moonriver, and Moonbase for 2nd Semester/2025.](moonriver/MRTP52&MBTP55.md) | 0xB969639e3Cbf1e5a1d753efb2be09De4f34001f7 | 0x4DA9a7f9e2381C0D663116Ed8dE297BAd1DB951c | 1,668.03 MOVR    | approved |
 | 53          | 54     | [OnFinality's Proposal for High Performance RPC & Bootnode for Moonbeam, Moonriver, and Moonbase Alpha in Q4 2025/Q1 2026](moonriver/MRTP53&MBTP56.md) | 0x4138574878c133d3A12009d6F54B8F26De700834 | 0xa674Bf4c9eb504fe7ca195AD715De053EDEc38f3 | 644.22 MOVR    | approved |
 | 54          | 55     | [[Proposal: MBXX/MRXX] UnitedBloc - Treasury Proposal for Q4/Q1 2026](moonriver/MRTP54&MBTP57.md) | 0x4138574878c133d3A12009d6F54B8F26De700834 | 0x2b0B08fE83fADCAffd49dfB433244ad670c2D3ba | 719.23 MOVR    | approved |
+| 57          | 57     | [[Proposal: MB11 & 30 / MR8 & 26] StakeGlmr.com and StakeMovr.com V2 - Treasury Proposal Q3 2025](moonriver/MRTP57&MBTP59.md) | 0x41D4B02022165Fcd47b4E0F64Aa41eEF9ef1da38 | 0x1980E75f1b1cdAAe3b2f79664C7cb83b86A3D404 | 233.64 MOVR    | approved |
