@@ -94,6 +94,10 @@ This table lists Moonbeam Treasury Proposals that have been converted into Treas
 | 67 | 67 | [[Proposal: MB11 & 30 / MR8 & 26] StakeGlmr.com and StakeMovr.com V2 - Treasury Proposal](moonbeam/MBTP67&MRTP63.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0xAb4B115b2D23EF8DA7b0aa54FC074fB4C6886441 | 63331.7719 GLMR | approved |
 | 68 | 68 | [[Proposal: MBXX/MRXX] UnitedBloc - Treasury Proposal for Q2/Q3 2026](moonbeam/MBTP68&MRTP65.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0xfD346Be6cd55247D4b928656E0DCdC10C1660434 | 254955.1772 GLMR | approved |
 | 69 | 69 | [Dwellir’s Proposal for Moonbeam, Moonriver, and Moonbase Alpha RPC Services (Q2/Q3 2026)](moonbeam/MBTP69&MRTP66.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 241075.9601 GLMR | approved |
+| 70 | 70 | [[Proposal: MB11 & 30 / MR8 & 26] StakeGlmr.com and StakeMovr.com V2 - Treasury Proposal](moonbeam/MBTP70.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0xAb4B115b2D23EF8DA7b0aa54FC074fB4C6886441 | 1368.60 USDC | approved |
+| 71 | 71 | [Multisig Maintenance & Wind-Down: Moonbeam, Moonriver, and Moonbase July 2026.](moonbeam/MBTP71.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0x4DA9a7f9e2381C0D663116Ed8dE297BAd1DB951c | 4200.00 USDC | approved |
+| 72 | 72 | [[Proposal: MBXX/MRXX] UnitedBloc - Treasury Proposal for Q2/Q3 2026](moonbeam/MBTP72.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0xfD346Be6cd55247D4b928656E0DCdC10C1660434 | 6200.00 USDC | approved |
+| 73 | 73 | [Dwellir’s Proposal for Moonbeam, Moonriver, and Moonbase Alpha RPC Services (Q2/Q3 2026)](moonbeam/MBTP73.md) | 0x1CdC248174ec9e9c505fabDbb0E037B5AcaB5c13 | 0xF8D757E04BF0fbd5432E743DD8612E62A9c983cf | 5700.00 USDC | approved |
 
 
 ### Moonriver
